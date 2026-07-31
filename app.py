@@ -10,7 +10,7 @@ st.set_page_config(
     layout="centered"
 )
 
-# Styling for visual hierarchy and clean UI
+# Styling
 st.markdown("""
     <style>
     .main {
@@ -68,7 +68,7 @@ st.markdown("<div class='sub-title'>GET 324 EE5 Mini-Project</div>", unsafe_allo
 st.sidebar.header("System Specifications")
 st.sidebar.write("**Group:** EE5")
 st.sidebar.write("**Model:** MobileNetV2 (Transfer Learning)")
-st.sidebar.write("**Target Classes:** Benign vs. Malignant")
+st.sidebar.write("**Target Classes:** Benign vs. Malignant (Skin Cancer)")
 st.sidebar.write("**Input Size:** 224 x 224 pixels")
 
 # Load trained model
@@ -117,7 +117,7 @@ if uploaded_file is not None:
                 confidence = prediction * 100
                 st.markdown(f"""
                     <div class='result-card-malignant'>
-                        <h4 style='margin:0 0 4px 0;'>Classification: Malignant</h4>
+                        <h4 style='margin:0 0 4px 0;'>Classification: Malignant (Skin Cancer)</h4>
                         <p style='margin:0;'>Confidence Score: <b>{confidence:.2f}%</b></p>
                     </div>
                 """, unsafe_allow_html=True)
@@ -125,7 +125,7 @@ if uploaded_file is not None:
                 confidence = (1 - prediction) * 100
                 st.markdown(f"""
                     <div class='result-card-benign'>
-                        <h4 style='margin:0 0 4px 0;'>Classification: Benign</h4>
+                        <h4 style='margin:0 0 4px 0;'>Classification: Benign (Non-Cancerous)</h4>
                         <p style='margin:0;'>Confidence Score: <b>{confidence:.2f}%</b></p>
                     </div>
                 """, unsafe_allow_html=True)
@@ -139,3 +139,4 @@ st.markdown("""
         <b>Note:</b> Developed for academic demonstration in GET 324. While trained on verified ISIC clinical dataset samples, this system is an engineering prototype and should be interpreted as an academic demonstration rather than a certified medical diagnostic tool.
     </div>
 """, unsafe_allow_html=True)
+        

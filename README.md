@@ -13,7 +13,7 @@ Developed for the GET 324: Cloud Computing and AI Model Deployment for Engineeri
 * Frameworks: TensorFlow / Keras, Streamlit, Pillow
 * Dataset Source: ISIC / HAM10000 Dermatoscopic Imagery
 
-
+## Group Members
 
 1. UKERE, SAMUEL ABASI-UBONG  22/EG/EE/2042
 

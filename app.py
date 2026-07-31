@@ -61,8 +61,8 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Application Title
-st.markdown("<div class='main-title'>Dermatoscopic Image Classifier</div>", unsafe_allow_html=True)
-st.markdown("<div class='sub-title'>GET 324 Mini-Project | Group EE5 System Architecture</div>", unsafe_allow_html=True)
+st.markdown("<div class='main-title'>🔬 Skin Cancer vs. Benign Tumor Classifier</div>", unsafe_allow_html=True)
+st.markdown("<div class='sub-title'>GET 324 EE5 Mini-Project</div>", unsafe_allow_html=True)
 
 # Sidebar setup
 st.sidebar.header("System Specifications")

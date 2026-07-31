@@ -24,7 +24,7 @@ Developed for the GET 324: Cloud Computing and AI Model Deployment for Engineeri
 ├── requirements.txt         # Runtime python dependencies
 ├── runtime.txt              # Python runtime version override (3.11)
 └── skin_cancer_model.h5     # Trained Keras model binary
-
+```
 ---
 
 ## Live Web Application

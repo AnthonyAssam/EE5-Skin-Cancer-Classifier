@@ -3,7 +3,7 @@ UKERE, SAMUEL ABASI-UBONG - Identified HTML/CSS syntax bugs and formatted dynami
 UDOKANG, GOSPEL UWEM - Recommended ".streamlit/config.toml" configuration for cloud deployment.
 OLUPINLA, RICHARD AYOKANMI - 22/EG/EE/1972 - Proposed updating UI labels to "Malignant (Skin Cancer)" and "Benign (Non-Cancerous)".
 AYANG, GREATMAN, OKPOKAM - Advised adding academic and medical disclaimers in the footer.
-ARCHIBONG, IRENE ANTHONY — Proposed structuring the technical summary report according to the project criteria.
+ARCHIBONG, IRENE ANTHONY(22/EG/EE/1962) — Proposed structuring the technical summary report according to the project criteria.
 ASSAM, ISRAEL ANTHONY - Suggested the Python 3.11 "runtime.txt" fix for Streamlit TensorFlow support 
 OMONRIBHOR,PRAISE OSAGIE - Suggested displaying system specifications and group information in the sidebar.
 EDET,IDARAOBONG EMMANUEL _

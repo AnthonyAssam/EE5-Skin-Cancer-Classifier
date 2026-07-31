@@ -9,3 +9,4 @@ OMONRIBHOR,PRAISE OSAGIE - Suggested displaying system specifications and group 
 EDET,IDARAOBONG EMMANUEL _
 Recommended custom  css styling  and color-coded result card 
 ESSIEN, SAMUEL MICHAEL - Suggested an input guidance box for supported dermatoscopic image types.
+OKON, UDUAKOBONG UKEME - Advised repository structure and version control setup on GitHub.

@@ -8,3 +8,4 @@ ASSAM, ISRAEL ANTHONY - Suggested the Python 3.11 "runtime.txt" fix for Streamli
 OMONRIBHOR,PRAISE OSAGIE - Suggested displaying system specifications and group information in the sidebar.
 EDET,IDARAOBONG EMMANUEL _
 Recommended custom  css styling  and color-coded result card 
+ESSIEN, SAMUEL MICHAEL - Suggested an input guidance box for supported dermatoscopic image types.

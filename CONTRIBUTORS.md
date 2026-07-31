@@ -10,3 +10,4 @@ EDET,IDARAOBONG EMMANUEL _
 Recommended custom  css styling  and color-coded result card 
 ESSIEN, SAMUEL MICHAEL - Suggested an input guidance box for supported dermatoscopic image types.
 OKON, UDUAKOBONG UKEME - Advised repository structure and version control setup on GitHub.
+EKEREKE IDONGESIT SUNDAY - 22/EG/EE/2092- Suggested Google Drive mounting in Colab for training stability.

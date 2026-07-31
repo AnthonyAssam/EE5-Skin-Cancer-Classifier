@@ -19,6 +19,7 @@ Developed for the GET 324: Cloud Computing and AI Model Deployment for Engineeri
 ```text
 ├── .streamlit/
 │   └── config.toml          # Streamlit server configurations
+├── CONTRIBUTORS.md          # Group member names and contribution logs
 ├── README.md                # Project documentation
 ├── app.py                   # Streamlit web application source code
 ├── requirements.txt         # Runtime python dependencies

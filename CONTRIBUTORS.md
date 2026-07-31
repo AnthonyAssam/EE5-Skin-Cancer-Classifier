@@ -3,4 +3,4 @@ UKERE, SAMUEL ABASI-UBONG - Identified HTML/CSS syntax bugs and formatted dynami
 UDOKANG, GOSPEL UWEM - Recommended ".streamlit/config.toml" configuration for cloud deployment.
 OLUPINLA, RICHARD AYOKANMI - Proposed updating UI labels to "Malignant (Skin Cancer)" and "Benign (Non-Cancerous)".
 AYANG, GREATMAN, OKPOKAM - Advised adding academic and medical disclaimers in the footer.
-ARCHIBONG,IRENE ANTHONY — Proposed structuring the technical summary report according to the project criteria.
+ARCHIBONG, IRENE ANTHONY — Proposed structuring the technical summary report according to the project criteria.

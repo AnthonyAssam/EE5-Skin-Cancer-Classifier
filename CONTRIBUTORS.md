@@ -5,3 +5,4 @@ OLUPINLA, RICHARD AYOKANMI - Proposed updating UI labels to "Malignant (Skin Can
 AYANG, GREATMAN, OKPOKAM - Advised adding academic and medical disclaimers in the footer.
 ARCHIBONG, IRENE ANTHONY — Proposed structuring the technical summary report according to the project criteria.
 ASSAM, ISRAEL ANTHONY - Suggested the Python 3.11 "runtime.txt" fix for Streamlit TensorFlow support 
+OMONRIBHOR,PRAISE OSAGIE - Suggested displaying system specifications and group information in the sidebar.

@@ -4,3 +4,4 @@ UDOKANG, GOSPEL UWEM - Recommended ".streamlit/config.toml" configuration for cl
 OLUPINLA, RICHARD AYOKANMI - Proposed updating UI labels to "Malignant (Skin Cancer)" and "Benign (Non-Cancerous)".
 AYANG, GREATMAN, OKPOKAM - Advised adding academic and medical disclaimers in the footer.
 ARCHIBONG, IRENE ANTHONY — Proposed structuring the technical summary report according to the project criteria.
+ASSAM, ISRAEL ANTHONY - Suggested the Python 3.11 "runtime.txt" fix for Streamlit TensorFlow support 

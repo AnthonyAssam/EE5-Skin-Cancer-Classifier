@@ -17,7 +17,15 @@ Developed for the GET 324: Cloud Computing and AI Model Deployment for Engineeri
 
 ## Repository Structure
 ```text
+├── .streamlit/
+│   └── config.toml          # Streamlit server configurations
 ├── README.md                # Project documentation
 ├── app.py                   # Streamlit web application source code
 ├── requirements.txt         # Runtime python dependencies
+├── runtime.txt              # Python runtime version override (3.11)
 └── skin_cancer_model.h5     # Trained Keras model binary
+
+---
+
+## Live Web Application
+https://ee5-skin-cancer-classifier.streamlit.app/

@@ -6,3 +6,5 @@ AYANG, GREATMAN, OKPOKAM - Advised adding academic and medical disclaimers in th
 ARCHIBONG, IRENE ANTHONY — Proposed structuring the technical summary report according to the project criteria.
 ASSAM, ISRAEL ANTHONY - Suggested the Python 3.11 "runtime.txt" fix for Streamlit TensorFlow support 
 OMONRIBHOR,PRAISE OSAGIE - Suggested displaying system specifications and group information in the sidebar.
+EDET,IDARAOBONG EMMANUEL _
+Recommended custom  css styling  and color-coded result card 
